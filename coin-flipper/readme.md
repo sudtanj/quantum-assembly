@@ -7,3 +7,7 @@ Hadamard Gate formula : <br />
 <br />
 Math calculation example : <br/>
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/39e0332d15d5ba1b473ade4d53913b6f87810b39" />
+
+
+Result : <br />
+<img src="https://github.com/sudtanj/quantum-assembly-collection/raw/master/coin-flipper/coin-flipper.png" />
